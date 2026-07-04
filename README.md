@@ -39,20 +39,17 @@ Cadence Innovus
 Verilog HDL
 TCL Scripting
 
->>Project Team
-Team 1
-SANIYA JOFFY 
-KRISHNA KANNAN 
-SREENANDAN C.K
+>>Project Team1
+SANIYA JOFFY,KRISHNA KANNAN,SREENANDAN C.K
 
 >>Complete ASIC implementation including:
-RTL Design
-Simulation
-Synthesis
-Reports
-Floorplanning
-Power Planning
-Placement
-Clock Tree Synthesis
-Routing
-Signoff
+
+Simulation,
+Synthesis,
+Reports,
+Floorplanning,
+Power Planning,
+Placement,
+Clock Tree Synthesis 
+Routing,
+Signoff.
